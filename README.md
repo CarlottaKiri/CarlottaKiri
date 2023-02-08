@@ -36,4 +36,13 @@
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FFA500?logo=postman&logoColor=white&style=flat" />
  
 </p>
+
+<br></br>
+<p align="center"><br></br>˜”*°•.˜”*°• <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlottakiri&show_icons=true&locale=en&layout=compact" alt="carlottakiri" /> •°*”˜.•°*”˜</p>
+
+
+<p align="center"><br></br>˜”*°•.˜”*°• <img align="center" src="https://github-readme-stats.vercel.app/api?username=carlottakiri&show_icons=true&locale=en" alt="carlottakiri" /> •°*”˜.•°*”˜</p>
+
+<p align="center" ><br></br>˜”*°•.˜”*°• <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlottakiri&" alt="carlottakiri" /> •°*”˜.•°*”˜</p>
+
   
