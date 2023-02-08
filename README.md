@@ -2,7 +2,7 @@
 <p align="left">
 <img width="120px" align="left" src="https://user-images.githubusercontent.com/116550146/217517474-408c4e61-289e-4a3b-ba91-c16c7a7e8f09.gif"></img></p>
 <br></br>
-
+<br></br>
 <br></br>
 <h1 align="center">Hello and welcome, I'm ℂ𝕒𝕣𝕝𝕠𝕥𝕥𝕒!</h1>
 <h3 align="center">An italian junior 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿!</h3>
