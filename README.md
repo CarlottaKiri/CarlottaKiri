@@ -23,6 +23,7 @@
  <img alt="Next" src="https://img.shields.io/badge/Next.js-FFFFFF?logo=next.js&logoColor=black&style=flat" />
  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat" />
  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFA500?logo=firebase&logoColor=white&style=flat" />
   </p>
   
   
